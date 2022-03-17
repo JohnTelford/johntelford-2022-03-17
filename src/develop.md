@@ -39,15 +39,15 @@ A web browser loads the website single file from the website server and interpre
 
 The [Johntelford](https://johntelford.com) and  [TechTalkJohn](https://techtalkjohn.com) websites are example of using these application to create and maintain website Markdown text and troika web programming materials. 
 
-## [iA Writer](https://ia.net/writer)
-> "iA Writer offers a unique writing experience that lets you concentrate and clarify your message. Used by half a million people worldwide, its powerful interface is crafted to cut out noise, let you focus on what you want to say, and help you structure and trim your text."
-
-iA Writer mirrors website Markdown text and troika web programming materials in the local repository. iA Writer is where text material is changed or new text material is created, and kept synchronized with the local repository using ChronoSync. Sometimes in the heat of development or defect remediation, changes are made to files in the Local Repository. iA Writer needs to be synchronized  with the Local Repository changes using ChronoSync.
-
 ## [Taio](https://taio.app) 
 >"A modern app for text processing on iPhone, iPad, and Mac, provides seamless experience for clipboard, markdown editing and text workflows."
 
 Trio and iA Writer have similar functionality. Trio value added is being able to edit iA Writer files using iPhone, iPad, and Mac locally or remotely.
+
+## [iA Writer](https://ia.net/writer)
+> "iA Writer offers a unique writing experience that lets you concentrate and clarify your message. Used by half a million people worldwide, its powerful interface is crafted to cut out noise, let you focus on what you want to say, and help you structure and trim your text."
+
+iA Writer mirrors website Markdown text and troika web programming materials in the local repository. iA Writer is where text material is changed or new text material is created, and kept synchronized with the local repository using ChronoSync. Sometimes in the heat of development or defect remediation, changes are made to files in the Local Repository. iA Writer needs to be synchronized  with the Local Repository changes using ChronoSync.
 
 ## [ChronoSync](https://www.econtechnologies.com/chronosync/overview.html)
 >"ChronoSync is a comprehensive toolkit for performing file synchronization macOS computers"
