@@ -12,9 +12,9 @@ Many companies sell hardware platforms with Microsoft Windows installed. Many pe
 
 Consumer versions of Windows were originally designed for ease-of-use on a single-user PC without a network connection, and did not have security features built in from the outset. Windows updates are regularly improving security.
 
-Windows is one of hackers prime data hunting grounds, even with frequent security updates. Windows systems are everywhere and stores or has access to vast amounts of data. There are Windows installations that do not keep Windows updated. One reason may be issues with updates. Microsoft Windows update problem 2021 are recent examples.
+Windows is one of hackers prime data hunting grounds, even with frequent security updates. Windows systems are everywhere and stores or has access to vast amounts of data. There are Windows installations that do not keep Windows updated. One reason may be issues with updates. Microsoft Windows contemporary update problems are examples.
 
-The reliability, robustness, security, and supportability of Microsoft systems varies from low to high, depending on the knowledge and skills of vendors, builders and maintainers. The combinations and permutations of vendor hardware platforms, software applications, and peripheral vendors and device support, may be contributing to Microsoft Windows update problems.
+The reliability, robustness, security, and supportability of Microsoft systems may be low or high, depending on the knowledge and skills of vendors, builders and maintainers. The combinations and permutations of vendor hardware platforms, software applications, and peripheral vendors and device support, may be contributing to Microsoft Windows update problems.
 
 There are computer repair services that are equipped to diagnosed and repaired Windows systems, but not to the extent of Apple Stores.
 

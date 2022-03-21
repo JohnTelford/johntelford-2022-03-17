@@ -21,6 +21,8 @@ The job of a static site generators is to compile the website pages written in t
 
 A web browser loads the website single file from the website server and interprets and renders the website. 
 
+Reference
+: [What is a static site generator?](https://www.cloudflare.com/learning/performance/static-site-generator/)
 ```
 
 ## mdBook
